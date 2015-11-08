@@ -1,2 +1,2 @@
-# angularprogressbar
-a simple angular progress bar
+#progress bar
+ a simple angular progress bar
