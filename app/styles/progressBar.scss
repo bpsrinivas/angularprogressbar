@@ -1,0 +1,13 @@
+.progressBarOuter{
+  width: 200px;
+  height:20px;
+  background-color: FFFFFF;
+  position:relative;
+  border: 1px solid red;
+
+  .progressBarInner{
+      height:100%;
+      width:60%;
+      background-color: red;
+  }
+}

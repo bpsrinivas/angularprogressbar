@@ -9,6 +9,9 @@
  */
 angular.module('angularprogressbarApp')
   .controller('MainCtrl', function ($scope) {
+
+    console.log('comes to main controller');
+
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
